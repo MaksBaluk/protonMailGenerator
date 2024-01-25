@@ -1,6 +1,5 @@
 #! python3
 #Michi4
-from PIL import Image
 import pyautogui
 import sys
 import time
